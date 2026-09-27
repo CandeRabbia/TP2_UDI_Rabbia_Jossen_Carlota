@@ -1,1 +1,6 @@
 Configuracion inicial del proyecto
+Buscar ideas para agregar al proyecto
+Revisar bien todo
+Hacer pruebas
+Gestión de copias de seguridad
+verificar datos
