@@ -2,3 +2,6 @@ notas de los estudiantes:
 logica: 8
 matematicas:7
 sistema operativo: 9
+udi: 6
+comunicacion: 9
+ingles: 8
