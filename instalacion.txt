@@ -4,3 +4,4 @@ Se instalo el proyecto en el repositorio local
 - Gestión de información.
 - Organización de datos.
 - Administración del proyecto.
+verificamos todo y esta chill
