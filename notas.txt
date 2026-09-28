@@ -1,7 +1,7 @@
-notas de los estudiantes:
-logica: 8
-matematicas:7
-sistema operativo: 9
-udi: 6
-comunicacion: 9
-ingles: 8
+carrera software 
+nombre:agustin 
+apellido: carlotta
+segundo nombre: nicolas 
+cumpleaños 3 diciembre #espero regalos 
+mi mascota favorita las nutrias
+entre viaje y comida prefiero comida
