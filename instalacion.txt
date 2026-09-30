@@ -1,4 +1,10 @@
-Este proyecto fue desarrollado para aprender Git y GitHub.
+Este proyectgit o fue desarrollado para aprender Git y GitHub.
+## Funcionalidades
+
+- Gestión de información.
+- Organización de datos.
+- Administración del proyecto.
+modificamos esta seccion
 ## Funcionalidades
 
 - Gestión de información.
