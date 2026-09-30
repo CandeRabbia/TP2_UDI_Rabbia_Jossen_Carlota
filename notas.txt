@@ -2,6 +2,10 @@ notas de los estudiantes:
 logica: 8
 matematicas:7
 sistema operativo: 9
+administracion: 7
+UDI: 10
+tecnologia: 9
+
 udi: 6
 modificada por Paulina
 hoy es lunes
