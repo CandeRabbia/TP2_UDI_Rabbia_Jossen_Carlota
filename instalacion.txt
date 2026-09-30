@@ -4,3 +4,4 @@ Este proyecto fue desarrollado para aprender Git y GitHub.
 - Gestión de información.
 - Organización de datos.
 - Administración del proyecto.
+modificamos esta seccion
