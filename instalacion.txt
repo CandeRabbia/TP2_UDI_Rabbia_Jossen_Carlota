@@ -1,4 +1,4 @@
-Se instalo el proyecto en el repositorio local
+Este proyecto fue desarrollado para aprender Git y GitHub.
 ## Funcionalidades
 
 - Gestión de información.
