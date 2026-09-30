@@ -5,3 +5,7 @@ sistema operativo: 9
 administracion: 7
 UDI: 10
 tecnologia: 9
+
+udi: 6
+comunicacion: 9
+ingles: 8
